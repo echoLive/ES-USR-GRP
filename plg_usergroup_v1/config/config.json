@@ -1,0 +1,12 @@
+{
+    "title": {
+        "default": "Select Group"
+    },
+    "description": {
+        "default": "Select your preferred Group/Groups"
+    },
+	"default": {
+		"title": "Group IDs",
+		"tooltip": "Set the default group id for what groups are to be shown. Seperate with comma, for example 1,2,3"
+	}
+}
