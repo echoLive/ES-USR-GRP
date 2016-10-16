@@ -1,5 +1,5 @@
 # ES-USR-GRP
-This is the Easysocial custom field app Select group.
+This is the Easysocial custom field app "Select group".
 
 Features:
 This app allows user to join Easysocial groups when registrering or editing profile.
